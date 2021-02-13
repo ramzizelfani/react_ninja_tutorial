@@ -19,28 +19,16 @@
       "id": 3
     },
     {
-      "title": "Test",
-      "body": "This is a Test !!!",
-      "author": "Ali",
-      "id": 4
-    },
-    {
       "title": "Test 2",
       "body": "This is another Test !!!!!",
       "author": "Mohsen",
       "id": 5
     },
     {
-      "title": "Test 2",
-      "body": "This is another Test !!!!!",
-      "author": "Mohsen",
-      "id": 6
-    },
-    {
-      "title": "bla",
-      "body": "blavlfrgfhfghf",
-      "author": "Mohsen",
-      "id": 7
+      "title": "Test",
+      "body": "This is another test",
+      "author": "Ali",
+      "id": 8
     }
   ]
 }
